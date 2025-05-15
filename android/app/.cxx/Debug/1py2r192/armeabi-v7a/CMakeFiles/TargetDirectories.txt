@@ -1,0 +1,2 @@
+/home/utwah/QUICK STUFF/MY APPS WITH FLUTTER /Onet_App/android/app/.cxx/Debug/1py2r192/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/utwah/QUICK STUFF/MY APPS WITH FLUTTER /Onet_App/android/app/.cxx/Debug/1py2r192/armeabi-v7a/CMakeFiles/rebuild_cache.dir
